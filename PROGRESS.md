@@ -12,13 +12,13 @@
 
 ### **useState**
 
-1. Birthday Reminder - DOING
+1. Birthday Reminder - DONE
 
 ### **useEffect and Conditional Rendering**
 
-2. Tours
+2. Tours - DONE
 
-3. Reviews
+3. Reviews - DOING
 
 4. Questions
 
