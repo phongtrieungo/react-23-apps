@@ -24,13 +24,13 @@
 
 4. Menu - DONE
 
-5. Tabs - DOING
+5. Tabs - DONE
 
-6. Slider
+6. Slider - DONE
 
 ### **Forms**
 
-1. Lorem Ipsum Generator
+1. Lorem Ipsum Generator - DOING
 
 2. Color Shades Generator
 
